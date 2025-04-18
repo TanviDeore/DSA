@@ -4,3 +4,6 @@
 [submodule "SelectionSort"]
 	path = SelectionSort
 	url = https://github.com/TanviDeore/SelectionSort
+[submodule "Heap_Implementation"]
+	path = Heap_Implementation
+	url = https://github.com/TanviDeore/Heap-Implementation
